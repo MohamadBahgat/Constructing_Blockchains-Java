@@ -1,4 +1,4 @@
-# Constructing_Blockchains-Java (Worked on it alone from A to Z)
+# Constructing_Blockchains-Java (Worked on it alone)
 How to implement a Block-Chain in java using MVC technique.
 In this project, we will design a cryptocurrency similar to BitCoin. We will simulate a
 multi-user network, once a transaction is made, the user announces it to his near peers.
